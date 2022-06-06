@@ -1,5 +1,5 @@
 Record=TopLevelDocument|FileName=CameraConn.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=CameraConn.SchDoc|FileName=CameraSupplies.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=CameraConn.SchDoc|FileName=DisplayConn.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=CameraConn.SchDoc|FileName=DisplaySupplies.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=CameraConn.SchDoc|FileName=CameraSupplies.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CameraConn.SchDoc|FileName=DisplayConn.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=CameraConn.SchDoc|FileName=DisplaySupplies.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=CameraConn.SchDoc|FileName=MainboardConn.SchDoc|SheetNumber=5
